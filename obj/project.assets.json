@@ -5037,11 +5037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maher\\Desktop\\dotnet web api\\webApi\\webApi.csproj",
+      "projectUniqueName": "C:\\Users\\maher\\Desktop\\dotnet web api\\asp_dotnet_web_api\\webApi\\webApi.csproj",
       "projectName": "webApi",
-      "projectPath": "C:\\Users\\maher\\Desktop\\dotnet web api\\webApi\\webApi.csproj",
+      "projectPath": "C:\\Users\\maher\\Desktop\\dotnet web api\\asp_dotnet_web_api\\webApi\\webApi.csproj",
       "packagesPath": "C:\\Users\\maher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maher\\Desktop\\dotnet web api\\webApi\\obj\\",
+      "outputPath": "C:\\Users\\maher\\Desktop\\dotnet web api\\asp_dotnet_web_api\\webApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
